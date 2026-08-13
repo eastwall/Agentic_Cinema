@@ -1,0 +1,10 @@
+🛠️ Phase 1: Core Frameworks & Environment
+Choose your building stage. Whether you want a managed, low-code interface or a fully custom SDK setup, begin here:
+
+Managed Setup: Gemini Enterprise Agent Platform API Setup — The central control panel for all Google Cloud agent configurations.
+The Low-Code Path: Agent Builder Guide — Best for rapid development using playbooks, managed grounding, and out-of-the-box data stores.
+Developer SDK: Gemini Enterprise Agent Platform SDK for Python — The client library required for writing custom agent logic, tool calls, and API integrations.
+Agent Starter Pack: Agent Engine Getting Started — Initialize your first custom agent backend.
+Cloud Access & Credits:
+Sign up for a no-cost trial at cloud.google.com/free.
+Use an existing account and request $100 in credits via Hackathon Credit Form (approved within 1–5 business days, while supplies last).
