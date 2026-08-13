@@ -1,0 +1,18 @@
+Phase 4: Reasoning, State, & Logic Hosting 
+Complex cinematic workflows require state tracking, tool invocation, and managed hosting. We recommend building your agents natively using the Agent Development Kit (ADK) instead of external wrapper libraries:
+
+📦 ADK Installation
+Install the ADK and Agent Engine client libraries:
+
+pip install "google-cloud-aiplatform[agent_engines,adk]>=1.101.0"
+
+🤖 Native ADK & Agent Engine Tutorials
+ADK Introduction: Introduction to Agent Engine — Learn how to define Python functions as tools, wrap them in your agent, and serialize configurations natively.
+Deploying ADK Agents: Deploying ADK Agents to Agent Engine — Step-by-step instructions to deploy your ADK agent to a serverless Vertex AI environment from a local notebook or from source code.
+Live API Streaming (Bidirectional Audio): Live API on Agent Engine Tutorial — Connect ADK agents directly to the Gemini Live API WebSockets for low-latency voice interactions (e.g., interactive script rehearsal).
+API & Tool Integration (VFX Tooling): Google Maps Agent Tutorial — A blueprint for building an agent integrated with external tools, APIs, and image/satellite tools.
+Agentic Database Interaction: Model Context Protocol (MCP) Database Toolbox — Ground your agent and query SQL databases securely using the Model Context Protocol.
+🔌 Agent Tools & Function Calling
+Introduction to Function Calling: Introduction to Function Calling — Allow your agent to query scheduling APIs, write to databases, or trigger cloud tasks.
+Forced Agent Actions: Forced Function Calling Guide — Ensure your agent always queries safety checks or permissions before executing a command.
+Multimodal Tool Triggering: Multimodal Function Calling — Make your agent trigger database updates or email alerts directly from visual video cues.
