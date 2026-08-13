@@ -1,0 +1,17 @@
+ Phase 2: Action Mechanisms & Data Connectivity (GenMedia Focus)
+Your agents need to "do" things (tools) and "know" things (grounding). Use these media-focused resources to process scripts, audio, and visual assets:
+
+📄 Script Processing & Document Grounding
+Document & PDF Analysis: Document Processing Guide — Learn how to parse complex PDF scripts, schedules, or box office reports.
+RAG with BigQuery: RAG Q&A with BigQuery & PDFs — Query script databases using LangChain and BigQuery Vector Search.
+Zero-Config Grounding: Agent Builder Data Stores Overview — Ground your agent apps using Vertex AI Search data stores.
+🎥 Video Analysis & VFX (Multimodal Storyboarding)
+Multimodal Introduction: Gemini Multimodal Use Cases — Learn to feed text, video, and audio simultaneously to Gemini.
+Comprehensive Video Transcription: Video Transcription Notebook — Generate timestamped transcriptions and speaker annotations from raw video clips.
+Video Asset Captioning: Video Captioning Notebook — Generate detailed metadata and descriptions to make video libraries searchable.
+Visual VFX Generation: Imagen 3 Image Generation Guide — Generate VFX mood boards, concept art, and storyboard panels from simple text prompts.
+🎵 Audio & Speech Generation (Lyria & Gemini TTS)
+Audio Generation (Lyria 3): Lyria 3 Music Generation Guide — Generate high-fidelity music clips, soundtracks, or sound effects across various genres.
+Speech Generation (Gemini TTS): Gemini 3.1 Flash TTS Tutorial — Convert text to expressive speech using prebuilt voices, and configure multi-speaker settings.
+Multi-Speaker Podcast Generator: Multi-Speaker Podcast Notebook — Generate multi-speaker dialogues, script reads, or discussions using Gemini and Speech APIs.
+Dialogue Sentiment Analysis: Multimodal Sentiment Analysis — Analyze actor reads or voiceovers by comparing audio tone against script text.
